@@ -1,5 +1,3 @@
-package Dome;
-
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {38, 5, 67, 18, 13, 7};
